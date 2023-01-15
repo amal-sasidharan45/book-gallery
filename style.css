@@ -1,0 +1,193 @@
+
+
+
+
+
+
+body{
+     background-color:#000000;
+     font-family: 'Poppins', sans-serif;
+     
+}
+
+
+
+
+.header{
+   color: #020202;
+ 
+   
+   
+    
+}
+.header>h5{
+    
+    padding: 20px;
+}
+.nav{
+   
+   
+    color: #b5fd00;
+   padding: 30px;
+    text-align:center;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #000000;
+    position: sticky;
+    top: 0px;
+ 
+    
+    
+}
+.nav:hover{
+color: #f3f3f3;
+    
+}
+
+.name{
+ 
+  
+    color: #f3f3f3;
+   padding: 200px;
+    text-align:center;
+    font-size: 20px;
+    
+
+}
+.first>img{
+    width: 300px;
+    height: 350px;
+    justify-content: center;
+    display: flex;
+ 
+    padding: 10px;
+      margin: 20px
+
+ 
+
+}
+img:hover {
+    
+        transform: scale(1.1);
+    }
+
+
+
+.title{
+ 
+ text-align: center;
+ margin: 5px;
+      
+    }  
+    
+    .head{
+   
+     
+     margin-bottom: 10px;
+    
+       
+    }
+
+
+    
+.first{
+   align-items:center;
+   display:inline-block;
+  margin-left: 50px;
+ 
+  
+}
+   
+
+
+.first>h2{
+    color: #f3f3f3;
+    text-align: center;
+
+}
+.first>p{
+    color: #f3f3f3;
+    text-align: center;
+}
+
+
+button{
+    border-radius: 10px;
+   
+    display: block;
+    margin: 0 auto; 
+    color:#000000;
+   background-color: #b5fd00;;
+    
+}
+
+
+
+button:hover {
+    transform: scale(1.2);
+}
+
+
+
+
+
+select{
+    display: block;
+    margin: 0 auto;
+}
+.h1{
+    color: #f3f3f3;
+    text-align: center;
+    margin: 30px;
+    letter-spacing: 10px;
+}
+h1{
+    letter-spacing: 3px;
+}
+
+
+.footer{
+    color: #f3f3f3;
+    text-align: center;
+    margin-top: 100px;
+    border: #f3f3f3 solid 1px;
+   
+    
+}
+h3{
+    color: #f3f3f3;
+    text-align: center;
+   
+}
+
+h3:hover{
+    color: #7e0404;
+}
+
+.so{
+    color: #f3f3f3;
+    margin: 5px;
+}
+.btn{
+    margin-top :10px;
+    text-decoration: none;
+    
+}
+.bg{
+    background-image: url('./friction/pexels-pixabay-159711.jpg');background-size:cover ;height: 600px;
+}
+.text{
+    
+    color:#f3f3f3 ;
+    font-size: 30px;
+
+}
+.GENRES{
+    padding: 100px;
+    color: #b5fd00;
+    text-align: center;
+    letter-spacing: 20px;
+}
+.first h2:hover{
+   color: #b5fd00;;
+}
